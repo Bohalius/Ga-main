@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-printf "Oleksandr Tserkovnyuk"
+printf "Bohdan Dushchak"
